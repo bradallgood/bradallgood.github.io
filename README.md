@@ -1,6 +1,3 @@
-## Brad Allgood
-
-
 ### Machine Learning
 - Andrew Ng Course
 - Linear Regression
